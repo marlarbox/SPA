@@ -18,7 +18,7 @@
         };
 
        $scope.lunchList = "";
-       $scope.message = "dd";
+       $scope.message = "";
     }
   
     function CheckLunchSize(lunchlist){
